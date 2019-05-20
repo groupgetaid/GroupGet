@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motivation View"
+    id="a691856b-574a-44fa-a488-6b16886fbfeb">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="2f88076d-6b08-4826-8122-33f9cb9b7b5c">
+    <bounds
+        x="336"
+        y="204"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_fbf4df36-e3c2-44cd-94c9-d3051fbfc31c.xml#fbf4df36-e3c2-44cd-94c9-d3051fbfc31c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3b734514-2961-4aab-93a9-64829a790dcf">
+    <bounds
+        x="336"
+        y="324"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_7ff18744-df5a-44c1-8eb2-2ab49e52461b.xml#7ff18744-df5a-44c1-8eb2-2ab49e52461b"/>
+  </children>
+</archimate:ArchimateDiagramModel>
