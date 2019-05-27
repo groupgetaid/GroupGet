@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure Use View"
+    id="3c777f7e-7b63-4ff1-abb4-c07ae5a608ed">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="0ca1ad78-e5f2-4588-8173-23e4cf3053bf">
+    <bounds
+        x="217"
+        y="94"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_917e82f4-b5ee-4dd8-ba79-1fcc6e96135b.xml#917e82f4-b5ee-4dd8-ba79-1fcc6e96135b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="74269c94-cd18-4b3a-b987-c02dba36dd15">
+    <bounds
+        x="204"
+        y="192"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_0ba5166d-b4c0-404c-a311-82d53f9662fc.xml#0ba5166d-b4c0-404c-a311-82d53f9662fc"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="dc195bb3-e323-49a9-8278-09707d7cab6d">
+    <bounds
+        x="361"
+        y="367"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_4107960d-9ef7-4816-a46d-0f0c4e6cae45.xml#4107960d-9ef7-4816-a46d-0f0c4e6cae45"/>
+  </children>
+</archimate:ArchimateDiagramModel>
