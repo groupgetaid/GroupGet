@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Widok infrastruktury"
+    name="Infrastructure view"
     id="7d32e018-70fc-4e6c-a6a5-9ca8e772701f">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -87,21 +87,21 @@
       targetConnections="69e301bc-9e2a-420c-abd6-8faa33eb5311">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="27abb07a-9953-4f88-96b0-c42d45de64f6"
-        source="70bf1779-7940-4143-90be-7539e81ab1d9"
-        target="31d75c04-977b-489b-94c7-8c46f15cf3c5">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_9b12e487-ddf7-4472-ac01-f90091a1e166.xml#9b12e487-ddf7-4472-ac01-f90091a1e166"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="3cadfbc3-8480-4ff0-9634-dc9b810263b7"
         source="70bf1779-7940-4143-90be-7539e81ab1d9"
         target="1d9f7059-61b8-4e53-bb7c-df02f62ba83f">
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_7694acc4-f80e-41a3-8477-084b60d0d765.xml#7694acc4-f80e-41a3-8477-084b60d0d765"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="27abb07a-9953-4f88-96b0-c42d45de64f6"
+        source="70bf1779-7940-4143-90be-7539e81ab1d9"
+        target="31d75c04-977b-489b-94c7-8c46f15cf3c5">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_9b12e487-ddf7-4472-ac01-f90091a1e166.xml#9b12e487-ddf7-4472-ac01-f90091a1e166"/>
     </sourceConnections>
     <bounds
         x="768"
@@ -327,8 +327,8 @@
       </sourceConnections>
       <bounds
           x="24"
-          y="48"
-          width="145"
+          y="36"
+          width="133"
           height="61"/>
       <archimateElement
           xsi:type="archimate:SystemSoftware"
