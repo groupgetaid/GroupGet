@@ -485,10 +485,10 @@
       id="37d7d99d-98fd-4b4e-9dd6-83acb2e60e4d"
       targetConnections="e0975888-d3d0-4fcb-a046-eec37e53f8ec">
     <bounds
-        x="96"
+        x="24"
         y="481"
-        width="120"
-        height="55"/>
+        width="181"
+        height="63"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_d4b642cd-1dc4-4061-9e55-0a602f4b38b6.xml#d4b642cd-1dc4-4061-9e55-0a602f4b38b6"/>
